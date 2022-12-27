@@ -69,4 +69,4 @@ https://youtu.be/WKJ3nOy0BZE
 ># 6. BIBLIOGRAFÍA
 
 FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
-
+BOYLESTAD, ROBERT L. Introducción al análisis de circuitos. PEARSON EDUCACIÓN, México, 2004
