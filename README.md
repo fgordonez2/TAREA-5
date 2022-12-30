@@ -66,12 +66,127 @@ los temas propuestos:
 
 ## Autoevaluación:
 
+2.Al asignar la dirección de las corrientes de rama:
+
+- a) las direcciones son críticas
+- b) todas deben estar en la misma dirección 
+- c) todas deben dirigirse a un nodo
+- **d) las direcciones no son críticas** ←
+
+4.Un determinante característico para dos ecuaciones simultáneas tendrá:
+
+- a) 2 filas y 1 columna
+- b) 1 fila y 2 columnas
+- **c) 2 filas y 2 columnas** ← 
+
+6.El método de expansión para evaluar determinantes es:
+
+- a) bueno sólo para determinantes de segundo grado 
+- **b) bueno tanto para determinantes de segundo como de tercer grado** ←
+- c) bueno para cualquier determinante
+- d) más fácil que utilizar una calculadora
+
+8.El método del voltaje en nodos está basado en:
+
+- **a) la ley de la corriente de Kirchhoff** ←
+- b) la ley de Ohm
+- c) el teorema de superposición
+- d) la ley del voltaje de Kirchhoff
+
+10.En general, el método del voltaje en nodos produce:
+
+- a) más ecuaciones que el método de la corriente en lazos 
+- **b) menos ecuaciones que el método de la corriente en lazos** ←
+- c) el mismo número de ecuaciones que el método de la corriente en lazos
+
+## Exámen rápido de dinámica de circuitos:
+
+Consulte la figura 9-26.
+
+![image](https://user-images.githubusercontent.com/104925648/210112967-f17877ef-2aa5-4b2b-92b1-6cea0735483a.png)
 
 
-## Sección 7-1 Identificación de relaciones en serie-paralelo
+2.Si la fuente de 6 V se pone en cortocircuito, el voltaje en el punto A con respecto a tierra:
 
+- a) aumenta
+- **b) disminuye** ←
+- c) no cambia
 
-## Sección 7-4 Efecto de carga de un voltímetro
+Consulte la figura 9-27.
+
+![image](https://user-images.githubusercontent.com/104925648/210113043-c3ce3c59-ee7b-48a4-8c1e-61f5d6fd8c3e.png)
+
+4.Si la fuente de corriente se abre, la corriente a través de R2
+
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+
+Consulte la figura 9-30.
+
+![image](https://user-images.githubusercontent.com/104925648/210113078-9204c634-6e98-46c9-a18e-3d20d0c9d163.png)
+
+6.Si R1 se abre, la magnitud del voltaje entre las terminales A y B
+
+- a) aumenta
+- **b) disminuye** ←
+- c) no cambia
+
+8.Si el punto B se pone en cortocircuito con la terminal negativa de la fuente, VAB
+
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+
+Consulte la figura 9-32.
+
+![image](https://user-images.githubusercontent.com/104925648/210113150-0691c55e-2978-4880-af85-6a2a57b0ec50.png)
+
+10.Si una fuente de voltaje VS2 se abre, el voltaje en A con respecto a tierra 
+
+- a) aumenta
+- **b) disminuye** ←
+- c) no cambia
+
+12.Si R2 se abre, el voltaje entre los extremos de R3
+
+- a) aumenta
+- **b) disminuye** ←
+- c) no cambia
+
+## Sección 9-1 Ecuaciones simultáneas en el análisis de circuitos
+
+2.Evalúe cada determinante:
+
+![image](https://user-images.githubusercontent.com/104925648/210113465-152d6281-9451-4894-ba00-526a5c4f6299.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210113652-389a5471-98ce-4b4c-bc7c-581ef6d1ac4e.png)
+
+4.Evalúe cada uno de los determinantes:
+
+![image](https://user-images.githubusercontent.com/104925648/210113679-3a53d21e-e4bc-46c2-b51a-056c931413fd.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210115219-512bd4c9-8685-4eb8-9da8-38a9087ee6ed.png)
+
+6.Determine I3 en el ejemplo 9-4.
+
+![image](https://user-images.githubusercontent.com/104925648/210115710-03a12de4-5f80-4113-8467-fcbf8ea29f51.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210116197-cd534967-a9d0-47ab-871c-8563f8640cba.png)
+
+8.Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
+
+![image](https://user-images.githubusercontent.com/104925648/210116215-0ac57886-e0f3-4d8a-aa07-05ef5528d175.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210116553-1e3d8e0f-026a-4f92-98a9-3ba3835e7968.png)
+
+10.Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora
+
+![image](https://user-images.githubusercontent.com/104925648/210116776-f593dd39-97df-42c9-9efa-00b0651bf161.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210116759-46e41a5b-e5c1-4baf-add9-a1eb63924a37.png)
+
+## Sección 9-2 Método de la corriente en ramas
 
 
 ## Sección 7-6 El puente Wheatstone
