@@ -174,6 +174,8 @@ Consulte la figura 9-32.
 
 ![image](https://user-images.githubusercontent.com/104925648/210116197-cd534967-a9d0-47ab-871c-8563f8640cba.png)
 
+![image](https://user-images.githubusercontent.com/104925648/210117185-1cc0996b-0780-42a3-83a1-f7558954f9ac.png)
+
 8.Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
 ![image](https://user-images.githubusercontent.com/104925648/210116215-0ac57886-e0f3-4d8a-aa07-05ef5528d175.png)
