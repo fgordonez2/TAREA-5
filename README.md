@@ -259,18 +259,20 @@ Consulte la figura 9-32.
 
 
 
-
-
-
-
-
-
-
-
-
-# Resolución de ejercicios pares *CAPITULO 8*:
+# Resolución de ejercicios pares *CAPITULO 10*:
 
 ## Autoevaluación:
+
+2.Un campo magnético se compone de:
+
+- a) las direcciones son críticas
+- b) todas deben estar en la misma dirección 
+- c) todas deben dirigirse a un nodo
+- **d) las direcciones no son críticas** ←
+
+
+
+
 
 
 
