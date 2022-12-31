@@ -21,7 +21,7 @@ los temas propuestos:
 
 ![image](https://user-images.githubusercontent.com/104925648/210111261-365857f6-811c-4d6f-a68f-489231526dd3.png)
 
-![image](https://user-images.githubusercontent.com/104925648/210111275-a02eb560-daab-4536-a9ea-06db9bf956e3.png)
+![image](https://user-images.githubusercontent.com/104925648/210138552-7d6aca11-f59d-4fb7-8046-c9f31ffd98a1.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/210111293-99b89150-0807-46bd-8c41-dbdf577b38b8.png)
 
@@ -194,8 +194,72 @@ Consulte la figura 9-32.
 
 ## Sección 9-2 Método de la corriente en ramas
 
+12.Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
-## Sección 7-6 El puente Wheatstone
+![image](https://user-images.githubusercontent.com/104925648/210138141-1efd267a-c212-4dcc-a0b4-68199908fbe0.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210138926-b3cd8974-3128-467f-8ea2-518c7faae373.png)
+
+14.Determine la corriente a través de cada resistor mostrado en la figura 9-27
+
+![image](https://user-images.githubusercontent.com/104925648/210138930-98476ec6-3113-455e-9a3c-60d4b8c0aafb.png)
+
+## Sección 9-3 Método de la corriente en lazos
+
+16.Escriba el determinante característico para las ecuaciones:
+
+![image](https://user-images.githubusercontent.com/104925648/210139344-b0eafbe2-7049-46ca-97bb-cba3a55aabea.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210139800-98b7dc44-b9f1-440a-a6a2-99c436bfa894.png)
+
+18.Determine las corrientes de rama en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/104925648/210139814-a9bc21e3-9cf7-4b32-84fd-49ec1ba5f1b9.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210141403-820aca9b-4e1c-4e62-8e65-dbaf74b4dd08.png)
+
+20.Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
+
+![image](https://user-images.githubusercontent.com/104925648/210141426-5be06ab6-9c47-45b6-a50a-c632d6d2eab7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210148591-39dabdc3-d6b7-4348-880b-51e799c7796a.png)
+
+22.Determine la corriente a través de cada resistor en la figura 9-29. 
+
+![image](https://user-images.githubusercontent.com/104925648/210148620-5b8ced2f-41fd-4760-9725-d0579fdda562.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210149334-b51975ef-1637-48b6-b347-68f4fafb6219.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210149370-374c524c-6739-4ad1-9f29-05495c0bc8ae.png)
+
+24.Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
+   es la corriente que circula a través de él?
+
+![image](https://user-images.githubusercontent.com/104925648/210149411-ae361968-3dd3-4099-aeb0-ccd94c582e2d.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210150083-09bb9474-b8c7-4fe9-9c02-0c81f99f4fd0.png)
+
+## Sección 9-4 Método del volatje en nodos
+
+26.En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
+   con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/104925648/210150176-b33d9d35-88e4-4e56-a284-1aac7524482b.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210150483-0844fac0-2ca4-4a41-a5a4-44eba77fda25.png)
+
+28.Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
+   voltajes de nodo.
+
+![image](https://user-images.githubusercontent.com/104925648/210150504-dc0e30d4-6729-4825-9fc4-3df680bb96d1.png)
+
+
+
+
+
+
+
+
 
 
 
