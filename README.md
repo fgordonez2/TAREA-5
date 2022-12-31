@@ -259,7 +259,7 @@ Consulte la figura 9-32.
 
 ![image](https://user-images.githubusercontent.com/104925648/210156532-0240d95f-6c0a-4f6c-9d01-c7fd200f08ab.png)
 
-![image](https://user-images.githubusercontent.com/104925648/210156548-961ba611-2f45-4cad-bde5-990f9a8d4542.png)
+![image](https://user-images.githubusercontent.com/104925648/210156605-30b08c85-b896-41e1-985c-1222039f0ce0.png)
 
 # Resolución de ejercicios pares *CAPITULO 10*:
 
