@@ -253,6 +253,10 @@ Consulte la figura 9-32.
 
 ![image](https://user-images.githubusercontent.com/104925648/210150504-dc0e30d4-6729-4825-9fc4-3df680bb96d1.png)
 
+![image](https://user-images.githubusercontent.com/104925648/210156812-d1acaa54-1f06-4913-9b3f-84707e150e9d.png)
+
+![image](https://user-images.githubusercontent.com/104925648/210156815-55308d45-decd-4ad9-bbe8-644515adbe27.png)
+
 30.Determine el voltaje en los puntos A, B y C en la figura 9-34
 
 ![image](https://user-images.githubusercontent.com/104925648/210152344-b5b95f7a-4408-44a1-8bed-2a5576b41126.png)
