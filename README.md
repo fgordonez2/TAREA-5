@@ -246,12 +246,17 @@ Consulte la figura 9-32.
 
 ![image](https://user-images.githubusercontent.com/104925648/210150176-b33d9d35-88e4-4e56-a284-1aac7524482b.png)
 
-![image](https://user-images.githubusercontent.com/104925648/210150483-0844fac0-2ca4-4a41-a5a4-44eba77fda25.png)
+![image](https://user-images.githubusercontent.com/104925648/210150584-abcf9aca-a7a9-43b6-9bbf-cb1c14e1e9a2.png)
 
 28.Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
    voltajes de nodo.
 
 ![image](https://user-images.githubusercontent.com/104925648/210150504-dc0e30d4-6729-4825-9fc4-3df680bb96d1.png)
+
+30.Determine el voltaje en los puntos A, B y C en la figura 9-34
+
+![image](https://user-images.githubusercontent.com/104925648/210152344-b5b95f7a-4408-44a1-8bed-2a5576b41126.png)
+
 
 
 
