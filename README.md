@@ -1,13 +1,17 @@
 # INFORME-TAREA-5
 ># 1. OBJETIVOS
 # General:
-- I
+
+- Efectuar los métodos de resolución para circuitos eléctricos y principios del campo magnético, mediante el uso de ecuaciones simultáneas, Leyes de Kirchhoff,
+  Ley de Ohm y sistemas de ecuaciones, para desarrollar correctamente los ejercicios planteados y además tener más facilidad para resolver circuitos más complejos.
 
  # Específicos:
- - De
- - Ap
- - R
- - De
+ 
+ - Analizar los métodos de corriente en ramas, análisis de lazo y nodos para determinar cantidades desconoidas en un circuito
+ - Justificar el procedimiento y respuestas de un sistema de ecuaciones usando una calculadora científica
+ - Resumir cuál método es más sencillo a la hora de resolver cualquier tipo de circuito eléctrico
+ - Deducir la Ley de Faraday aplicada en campos magnéticos
+ - Describir en concepto de flujo magnético
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
