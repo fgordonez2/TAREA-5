@@ -276,18 +276,48 @@ Consulte la figura 9-32.
 - c) todas deben dirigirse a un nodo
 - **d) las direcciones no son críticas** ←
 
+4.La reluctancia en un circuito magnético es análoga a:
 
+- a) el voltaje en un circuito eléctrico
+- b) la corriente en un circuito eléctrico
+- c) la potencia en un circuito eléctrico
+- **d) la resistencia en un circuito eléctrico** ←
 
+6.La unidad de fuerza magnetomotriz es el:
 
+- **a) tesla** ←
+- b) weber
+- c) ampere-vuelta
+- d) electrón-volt
 
+8.La activación electromagnética de una flecha movible es la base de los:
 
+- a) relevadores
+- b) cortacircuitos
+- c) interruptores magnéticos 
+- **d) solenoides** ←
 
+10.Una bobina de alambre conductor se coloca en un campo magnético cambiante. Si el número de vueltas en 
+   la bobina se incrementa, el voltaje inducido en la bobina
 
+- a) permanecerá igual
+- b) disminuirá
+- **c) aumentará** ←
+- d) será excesivo
 
+12.En el sensor de posición de cigüeñal mostrado en la figura 10-33, el voltaje inducido en la bobina es
+   provocado por 
 
+- a) la corriente en la bobina
+- b) la rotación del disco de acero 
+- **c) un diente que atraviesa el campo magnético** ←
+- d) la aceleración en la velocidad de rotación del disco de acero
 
+## Sección 10-1 El campo magnético
 
-## Sección 8-3 Conversiones de fuente
+2.En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb.
+  ¿Cuál es la densidad de flujo?
+  
 
 
 
