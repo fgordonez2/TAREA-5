@@ -387,9 +387,6 @@ Respuesta: El voltaje inducido se duplica en el momento en que la tasa de cambio
 
 ![image](https://user-images.githubusercontent.com/104925648/210186244-8d329892-89f9-4891-960e-c139283e94e4.png)
 
-24.Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje
-   de cd de salida a su pico (alcanza un máximo)?
-
 ># 4. VÍDEO
 
 
