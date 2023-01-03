@@ -395,15 +395,20 @@ Respuesta: El voltaje inducido se duplica en el momento en que la tasa de cambio
 
 ># 5. CONCLUSIONES
 
-- El teorema de superposición para el análisis de circuitos serie - paralelo es de gran uso porque permite reducir un circuito complejo en una más simple, con esto se   facilita el análisis del circuito y se puede aplicar cualquier método conocido para poder calcular intensidad de corriente, el voltaje 
-  total del circuito y la resistencia total.
-- Las conversiones entre configuraciones de circuito tipo delta y tipo Y son útiles en ciertas aplicaciones especializadas de tres terminales (A,B,C).
-  Un ejemplo se encuentra en el análisis de un circuito puente Wheatstone con carga. 
-- Debido a su resistencia interna, un voltímetro aplica carga al circuito y afectará, en cierto grado, el voltaje que se esté midiendo.Se ha ignorado el efecto de       carga porque la resistencia interna de un voltímetro es muy alta, y normalmente tiene un efecto insignificante en el circuito que está siendo medido
-- Los teoremas de circuitos eléctricos son aquellas técnicas derivadas de las leyes de Kirchoff y la ley de Ohm que permiten resolver de una manera más simple cierto     tipo de circuitos. Algunos con aplicaciones más particulares que otros, facilitan el estudio de las redes eléctricas.
-- Los teoremas son de gran utilidad en las investigaciones que se hacen dentro delcampo de la ingeniería eléctrica, como por ejemplo el Teorema de Thévenin en        
-  elanálisis de los sistemas eléctricos de potencia.
+- Al realizar la respectiva tarea se concluye que por cualquier método que yo elija resolver un circuito eléctrico
+  ya sea correinte de rama, corriente de lazo o voltaje en nodos es necesario aplicar correctamente las Leyes de 
+  Kircchoff y Ley de Ohm.
+
+- El método más sencillo se puede resumir en los datos que nos de el ejercicio y también cuál sea la interrogante, 
+  según eso yo elijo cual método usar para facilitar los cálculos a cantidades no conocidas.
   
+- El flujo magnético se define como un grupo de líneas de fuerza que van del polo norte al polo sur en un imán. 
+  El número de líneas que existen dentro del campo magnético determina el valor del flujo, por lo cual la relación 
+  entre el campo magnético y el flujo magnético es que entre más líneas haya más intenso será el campo.
+  
+- La ley de Faraday es una relación fundamental basada en las ecuaciones de Maxwell. Sirve como un sumario abreviado 
+  de las formas en que se puede generar un voltaje (o fem), por medio del cambio del entorno magnético.
+
 ># 6. BIBLIOGRAFÍA
 
 - FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
