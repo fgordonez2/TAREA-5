@@ -7,7 +7,7 @@
 
  # Específicos:
  
- - Analizar los métodos de corriente en ramas, análisis de lazo y nodos para determinar cantidades desconoidas en un circuito
+ - Analizar los métodos de corriente en ramas, análisis de lazo y nodos para determinar cantidades desconocidas en un circuito
  - Justificar el procedimiento y respuestas de un sistema de ecuaciones usando una calculadora científica
  - Resumir cuál método es más sencillo a la hora de resolver cualquier tipo de circuito eléctrico
  - Deducir la Ley de Faraday aplicada en campos magnéticos
