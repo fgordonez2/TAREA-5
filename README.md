@@ -11,7 +11,7 @@
  - Justificar el procedimiento y respuestas de un sistema de ecuaciones usando una calculadora científica
  - Resumir cuál método es más sencillo a la hora de resolver cualquier tipo de circuito eléctrico
  - Deducir la Ley de Faraday aplicada en campos magnéticos
- - Describir en concepto de flujo magnético
+ - Describir el concepto de flujo magnético
 
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
