@@ -389,6 +389,7 @@ Respuesta: El voltaje inducido se duplica en el momento en que la tasa de cambio
 
 ># 4. VÍDEO
 
+https://youtu.be/-pIg1bUISdM
 
 ># 5. CONCLUSIONES
 
